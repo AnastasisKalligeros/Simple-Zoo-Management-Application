@@ -5,7 +5,7 @@ A project that was developed as a university assignment for the subject "Object-
 The program was written in the Intellij IDEA development environment, in the language Java programming language. The animals are listed on a list that created, which is saved when the program is closed (the data that has been 
 loaded/modified will not be lost). The data is not stored in a DB, but saved directly to a file/files according to the requirements of the pronouncement. </br> </br>
 
-<b>Specifically your application will support the following functions:</b> </br> </br>
+<b>Specifically the application will support the following functions:</b> </br> </br>
 
 1. View all available zoo animals. 
 2. Add a new animal.
